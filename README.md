@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Full Name]
+# 👋 Hi there, I'm Kien
 
 🎓 I'm a student at **Hanoi University of Science and Technology**, majoring in **Control and Automation Engineering**.  
 🔧 I’m passionate about **Embedded Systems**, **IoT**, and **healthcare technology**.  
